@@ -15,19 +15,15 @@ The App is organzied with a switch/case that allows the user to input a command 
 * `node liri.js concert-this <artist/band name here>`
     * Insert the atrist/band name in any order with spaces and you will get all the information on where the artist will play next.
 
-![Image of spotify-this-song]
-(https://github.com/cddavidson86/liri-node-app/blob/master/images/Screen%20Shot%202019-06-25%20at%2010.05.46%20PM.png)
-(https://github.com/cddavidson86/liri-node-app/blob/master/images/Screen%20Shot%202019-06-25%20at%2010.06.22%20PM.png)
+![Image of spotify-this-song](https://github.com/cddavidson86/liri-node-app/blob/master/images/Screen%20Shot%202019-06-25%20at%2010.05.46%20PM.png)(https://github.com/cddavidson86/liri-node-app/blob/master/images/Screen%20Shot%202019-06-25%20at%2010.06.22%20PM.png)
 * `node liri.js spotify-this-song '<song name here>'`
     * Insert the song name and the artist in any order with spaces and it will pull up all information on the song.
     
-![Image of movie-this]
-(https://github.com/cddavidson86/liri-node-app/blob/master/images/Screen%20Shot%202019-06-25%20at%2010.09.26%20PM.png)
+![Image of movie-this](https://github.com/cddavidson86/liri-node-app/blob/master/images/Screen%20Shot%202019-06-25%20at%2010.09.26%20PM.png)
 * `node liri.js movie-this '<movie name here>'`
     * Insert the movie name at the end of the command with spaces to get all the information on the movie.
     
-![Image of do-what-it-says]
-(https://github.com/cddavidson86/liri-node-app/blob/master/images/Screen%20Shot%202019-06-25%20at%2010.10.06%20PM.png)
+![Image of do-what-it-says](https://github.com/cddavidson86/liri-node-app/blob/master/images/Screen%20Shot%202019-06-25%20at%2010.10.06%20PM.png)
 * `node liri.js do-what-it-says`
     * This command runs the spotify band search function using a command that is entered in the random.txt file.
     
