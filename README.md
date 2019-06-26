@@ -1,18 +1,6 @@
 # liri-node-app
 liri-node-app
 
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
-1. Clearly state the problem the app is trying to solve (i.e. what is it doing and why)
-2. Give a high-level overview of how the app is organized
-3. Give start-to-finish instructions on how to run the app
-4. Include screenshots, gifs or videos of the app functioning
-5. Contain a link to a deployed version of the app
-6. Clearly list the technologies used in the app
-7. State your role in the app development
-
 # What the app provides
 
 The Liri App is a powerful app that allows for 4 different commands to search for different results. These results include concert information, movie information, song and artist information and the ability to pull a command from a readme.txt file. 
