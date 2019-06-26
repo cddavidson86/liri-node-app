@@ -52,3 +52,5 @@ https://cddavidson86.github.io/liri-node-app/
 # My role
 
 Designer and programmer. 
+
+![alt text](https://github.com/cddavidson86/liri-node-app/blob/master/images/Screen%20Shot%202019-06-25%20at%2010.05.10%20PM.png)
