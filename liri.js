@@ -177,7 +177,7 @@ function movieThis() {
                 }
                 console.log(error.config);
             });
-    }
+    } else {
 
     axios
         .get("http://www.omdbapi.com/?apikey=trilogy&t=" + value)
@@ -209,6 +209,7 @@ function movieThis() {
             console.log(error.config);
         });
     // console.log("movieThis run");
+    }
 }
 
 // READFILE FUNCTION 
