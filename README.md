@@ -15,7 +15,7 @@ The App is organzied with a switch/case that allows the user to input a command 
     * Insert the atrist/band name in any order with spaces and you will get all the information on where the artist will play next.
 
 ![Image of concert-this]
-(/images/Screen Shot 2019-06-25 at 10.05.10 PM.png)
+(https://github.com/cddavidson86/liri-node-app/blob/master/images/Screen%20Shot%202019-06-25%20at%2010.05.10%20PM.png)
 
 * `node liri.js spotify-this-song '<song name here>'`
     * Insert the song name and the artist in any order with spaces and it will pull up all information on the song.
