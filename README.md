@@ -11,6 +11,7 @@ The App is organzied with a switch/case that allows the user to input a command 
 
 ## Instructions on how to run it
 
+![alt text](https://github.com/cddavidson86/liri-node-app/blob/master/images/Screen%20Shot%202019-06-25%20at%2010.05.10%20PM.png)
 * `node liri.js concert-this <artist/band name here>`
     * Insert the atrist/band name in any order with spaces and you will get all the information on where the artist will play next.
 
@@ -53,4 +54,3 @@ https://cddavidson86.github.io/liri-node-app/
 
 Designer and programmer. 
 
-![alt text](https://github.com/cddavidson86/liri-node-app/blob/master/images/Screen%20Shot%202019-06-25%20at%2010.05.10%20PM.png)
