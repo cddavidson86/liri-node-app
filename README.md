@@ -18,14 +18,14 @@ The App is organzied with a switch/case that allows the user to input a command 
 
 
 * `node liri.js spotify-this-song '<song name here>'`
-    * Insert the song name and the artist in any order with spaces and it will pull up all information on the song. As you can see in the top picture if nothing is input it will default to "The Sign" by Ace Of Base.
+    * Insert the song name and the artist in any order with spaces and it will pull up all information on the song. As you can see in the top picture, if nothing is entered as input it will default to "The Sign" by Ace Of Base.
 ![Image of spotify-this-song](https://github.com/cddavidson86/liri-node-app/blob/master/images/Screen%20Shot%202019-06-25%20at%2010.05.46%20PM.png)
 ![Image of spotify-this-song](https://github.com/cddavidson86/liri-node-app/blob/master/images/Screen%20Shot%202019-06-25%20at%2010.06.22%20PM.png)
 
 
 
 * `node liri.js movie-this '<movie name here>'`
-    * Insert the movie name at the end of the command with spaces to get all the information on the movie. If nothing is entered it will default to the movie "Mr. Nobody".
+    * Insert the movie name at the end of the command with spaces to get all the information on the movie. If nothing is entered, it will default to the movie "Mr. Nobody".
 ![Image of movie-this](https://github.com/cddavidson86/liri-node-app/blob/master/images/Screen%20Shot%202019-06-25%20at%2010.09.26%20PM.png)
     
     
@@ -50,5 +50,5 @@ https://cddavidson86.github.io/liri-node-app/
 
 # My role
 
-Designer and programmer. 
+Design and Programmer. 
 
